@@ -1,0 +1,5 @@
+Charachter:Frequency
+h:1
+o:1
+e:2
+l:3
